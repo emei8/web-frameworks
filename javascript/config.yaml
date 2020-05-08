@@ -2,7 +2,7 @@ provider:
   default:
     language: 13.14
   digitalocean:
-    language: 13.14
+    language: 12.16
 
 files:
   - app.js
